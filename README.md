@@ -5,7 +5,7 @@ To get started with the Bookshop-Management project, follow these steps:
 
 Clone this repository to your local machine using the following command:
 
-    git clone git@github.com:David-Hunt327/Diabetes-Management-Chatbot.git
+    git clone git@github.com:David-Hunt327/Bookstore-Management.git
 
 - Set to correct Directory:
 
